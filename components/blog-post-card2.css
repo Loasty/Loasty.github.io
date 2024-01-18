@@ -81,31 +81,14 @@
   font-weight: 500;
 }
 
+
 .blog-post-card2-root-class-name2 {
   display: none;
 }
 
+.blog-post-card2-root-class-name4 {
+  display: none;
+}
 
-@media(max-width: 991px) {
-  .blog-post-card2-blog-post-card {
-    flex-direction: row;
-    justify-content: space-between;
-  }
-}
-@media(max-width: 767px) {
-  .blog-post-card2-blog-post-card {
-    flex-direction: column;
-  }
-  .blog-post-card2-image {
-    width: 100%;
-  }
-}
-@media(max-width: 479px) {
-  .blog-post-card2-container2 {
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-  .blog-post-card2-text5 {
-    width: auto;
-  }
-}
+
+
