@@ -871,6 +871,12 @@
     grid-template-columns: repeat(3, calc(33.333333333333336% - 6.66667px));
   }
 
+  .u-section-3 .u-image-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
   .u-section-3 .u-image-2 {
     height: 250px;
     background-position: 50% 50%;
@@ -887,6 +893,12 @@
     margin-right: 0;
   }
 
+  .u-section-3 .u-image-3 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
   .u-section-3 .u-image-4 {
     height: 250px;
     --radius: 50px;
@@ -901,6 +913,12 @@
 
   .u-section-3 .u-text-5 {
     margin-right: 0;
+  }
+
+  .u-section-3 .u-image-5 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-3 .u-image-6 {
@@ -936,6 +954,13 @@
     grid-template-columns: repeat(2, calc(50% - 5.0000025px));
   }
 
+  .u-section-3 .u-image-1 {
+    height: 165px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-3 .u-image-2 {
     height: 295px;
     width: auto;
@@ -943,8 +968,22 @@
     margin-left: initial;
   }
 
+  .u-section-3 .u-image-3 {
+    height: 165px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-3 .u-image-4 {
     height: 295px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-image-5 {
+    height: 165px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -969,6 +1008,13 @@
     padding-right: 10px;
   }
 
+  .u-section-3 .u-image-1 {
+    height: 282px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-3 .u-image-2 {
     height: 505px;
     width: auto;
@@ -981,6 +1027,13 @@
     padding-right: 10px;
   }
 
+  .u-section-3 .u-image-3 {
+    height: 282px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-3 .u-image-4 {
     height: 505px;
     width: auto;
@@ -991,6 +1044,13 @@
   .u-section-3 .u-container-layout-3 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-5 {
+    height: 282px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-3 .u-image-6 {
@@ -1006,6 +1066,13 @@
     grid-auto-columns: 100%;
   }
 
+  .u-section-3 .u-image-1 {
+    height: 174px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-3 .u-image-2 {
     height: 311px;
     width: auto;
@@ -1013,8 +1080,22 @@
     margin-left: initial;
   }
 
+  .u-section-3 .u-image-3 {
+    height: 174px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-3 .u-image-4 {
     height: 311px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-image-5 {
+    height: 174px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
