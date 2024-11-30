@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>loasty.dev/Home.html</loc>
-        <lastmod>2024-06-14T16:50:38-04:00</lastmod>
+        <lastmod>2024-11-29T21:22:42-05:00</lastmod>
     </url>
     <url>
         <loc>loasty.dev/index.html</loc>
-        <lastmod>2024-06-14T16:50:38-04:00</lastmod>
+        <lastmod>2024-11-29T21:22:42-05:00</lastmod>
     </url>
     <url>
         <loc>loasty.dev/blog/post.html</loc>
@@ -34,6 +34,6 @@
     </url>
     <url>
         <loc>loasty.dev/blog/blog.html</loc>
-        <lastmod>2024-06-14T16:50:41-04:00</lastmod>
+        <lastmod>2024-11-29T21:22:44-05:00</lastmod>
     </url>
 </urlset>
